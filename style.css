@@ -1,5 +1,5 @@
 h1{
-    color:black;
+    color:#8B0000;
     font-size:60px;
     text-decoration: underline;
     font-family: 'Lobster', cursive;
@@ -7,5 +7,53 @@ h1{
 }
 h2{
     font-family: 'Amaranth', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+p { font-family: 'Rokkitt', serif;
+    font-size: 30px;
+    text-indent: 25px;
+}
+header li { 
+    display: inline-block;
+    list-style: none;
+    width: 32%;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    background-color:#FFFFE0;
+    font-size: 30px;
     
 }
+header a { 
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+    
+p a { 
+    text-decoration: none;
+    font-style: italic;  
+    color:#8B0000 ;
+}
+body{
+    background-image: url(http://departementeducation.enseignement-catholique.fr/apprivoiserlesecrans/wp-content/uploads/2013/01/texture-lin-claire.jpg)
+}
+ol {
+    text-align: center;
+}
+h3 {
+    text-align: right;
+}
+main {
+    margin: auto;
+    max-width: 1500px;
+    text-align: justify;
+}
+.image-small {
+    widht: 100px;
+    transition: all is ease;
+}
+    
+.image-small: hover {
+    width: 100%
+        
