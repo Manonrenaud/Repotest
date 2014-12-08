@@ -41,7 +41,7 @@ body{
 ol {
     text-align: center;
 }
-h3 {
+h3 parcours{
     text-align: right;
 }
 main {
@@ -49,11 +49,33 @@ main {
     max-width: 1500px;
     text-align: justify;
 }
-.image-small {
-    widht: 100px;
-    transition: all is ease;
-}
+.facebook { 
+    width: 300px;
+    border-style: dashed;
+    border-width: 2px;
     
-.image-small: hover {
-    width: 100%
-        
+}
+.permis {
+    text-align: right;
+    color: #8B0000;  
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+.mail {
+    text-align: center;
+    font-size: 30px;
+   
+}
+.gmail { 
+    text-align: center;
+    color: #000080;
+    font-family: 'Libre Baskerville', serif;
+}
+.portable {
+text-align: center;
+    font-size: 30px;
+}
+.num {
+    text-align: center;
+    color:#000080;
+}
