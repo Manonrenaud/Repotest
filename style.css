@@ -63,8 +63,12 @@ main {
 }
 .mail {
     text-align: center;
+    font-family: 'Courgette', cursive;
     font-size: 30px;
    
+}
+.image-center{
+    text-align: center;
 }
 .gmail { 
     text-align: center;
@@ -73,9 +77,11 @@ main {
 }
 .portable {
 text-align: center;
+    font-family:'Courgette', cursive;
     font-size: 30px;
 }
 .num {
     text-align: center;
     color:#000080;
 }
+
